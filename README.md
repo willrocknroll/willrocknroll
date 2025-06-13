@@ -2,7 +2,7 @@
 
 👀 Me interesso por tecnologia, desenvolvimento de sistemas, automações, inteligência artificial e tudo que envolva inovação digital. Sou movido pela curiosidade e pelo desafio de transformar ideias em soluções reais.
 
-🌱 Atualmente, estou me aprofundando em projetos com **PowerShell**, **Linux**, **automação de servidores**, além de estudar **desenvolvimento com Python** e **ferramentas de IA generativa** para aumentar minha produtividade.
+🌱 Atualmente, estou me aprofundando em projetos com **PowerShell**, **Linux**, **automação de servidores**, além de estudar **desenvolvimento, Linux, Virutalização** e **ferramentas de IA generativa** para aumentar minha produtividade.
 
 💞️ Estou em busca de colaboração em projetos open-source, especialmente nas áreas de **infraestrutura como código**, **scripts de automação**, **documentação técnica** ou qualquer iniciativa onde eu possa contribuir com meus conhecimentos em **TI, servidores e segurança**.
 
